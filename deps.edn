@@ -1,3 +1,4 @@
+;;!zprint {:width 1000}
 {:aliases {:test {:extra-paths ["test"]}}
  :deps    {org.clojure/clojure {:mvn/version "1.10.2"}}
  :paths   ["src" "resources"]}
